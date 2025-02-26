@@ -1,2 +1,2 @@
-Disneyland # Simran
+ramandeep kaur
 This is my first repository
